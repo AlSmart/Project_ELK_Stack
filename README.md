@@ -187,3 +187,4 @@ root@:/etc/ansible# nano metricbeat-config.yml
 root@:/etc/ansible# nano metricbeat-playbook.yml
 root@:/etc/ansible# ansible-playbook metricbeat-playbook.yml
 
+Diagram : diagram
