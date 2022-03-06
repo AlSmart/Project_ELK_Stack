@@ -187,4 +187,5 @@ root@:/etc/ansible# nano metricbeat-config.yml
 root@:/etc/ansible# nano metricbeat-playbook.yml
 root@:/etc/ansible# ansible-playbook metricbeat-playbook.yml
 
-(Diagram)Diagrams/Cloud Diagram.png
+(Diagram)
+https://github.com/AlSmart/Project_ELK_Stack/blob/main/Diagrams/Cloud%20Diagram.png
